@@ -1,0 +1,22 @@
+{
+  "name": "fetch_devices_pgination",
+  "version": "1.0.0",
+  "description": "\"Applying Pagination to fetch Devices\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "\"fetch",
+    "Devices",
+    "pagination\""
+  ],
+  "author": "\"Manisha S. Jadhav\"",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5"
+  }
+}
